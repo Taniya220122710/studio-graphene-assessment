@@ -27,6 +27,7 @@ A Full-Stack task management application built using React, Node.js, and Express
 - JSON File('tasks.json')
 
 ## Project Structure
+
 Personal Task Manager
 │
 ├── client
@@ -114,6 +115,10 @@ PATCH /api/tasks/:id/toggle
 - Task Priority Levels
 - Database Integration (MongoDB)
 - Drag and Drop Task Management
+
+## Output
+<img width="1918" height="903" alt="image" src="https://github.com/user-attachments/assets/2251a990-ec8c-435b-bbf9-6ae49ff3fae1" />
+
 
 ## Author
 
