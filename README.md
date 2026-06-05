@@ -26,27 +26,6 @@ A Full-Stack task management application built using React, Node.js, and Express
 ### Storage
 - JSON File('tasks.json')
 
-## Project Structure
-
-Personal Task Manager
-│
-├── client
-│   ├── src
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   └── services
-│   │       └── taskService.js
-│
-├── server
-│   ├── controllers
-│   │   └── taskController.js
-│   ├── routes
-│   │   └── taskRoutes.js
-│   ├── data
-│   │   └── tasks.json
-│   └── server.js
-
-
 ## Installation
 
 ### Clone Repository
